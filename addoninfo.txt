@@ -2,7 +2,7 @@ AddonInfo
 {
 	addonSteamAppID		550
 	addonTitle			"Labirinferno"
-	addonVersion		2.0
+	addonVersion		2.1
 	addonAuthor			"K. and Jack Bauer ︻デ▬——"
 	addonAuthorSteamID	76561198072972685
 	addonURL0			https://steamcommunity.com/sharedfiles/filedetails/503741689
